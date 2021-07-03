@@ -1,0 +1,88 @@
+body{
+
+    font-family: 'serif' , Times New Roman;
+
+}
+
+.banner-container{
+
+    background-color: #282A35;
+}
+
+
+.banner-column{
+
+    background-color:#C5C5C5;
+}
+
+
+.Navbar-Container{
+    top: 0;
+    background-color:#C5C5C5;
+    position: sticky;
+    z-index: 2;
+
+}
+
+.nav-item .nav-link{
+    color:whitesmoke !important;
+    }
+
+.about-container{
+
+    background-color: #282A35;
+}
+
+
+.education-container{
+
+    background-color: #C5C5C5;
+}
+
+.edublack{
+color:black
+}
+
+.circle{
+
+    background-color: #282A35;
+    width:150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+
+.project-continer{
+
+    background-color: #C5C5C5;
+}
+
+.form-container{ 
+
+    background-color: #C5C5C5;
+}
+
+.hover-form{
+    background-color: #282A35;
+}
+
+.hover-form:hover{
+
+    color: aqua !important;
+}
+
+.footer{
+
+    background-color: skyblue;
+}
+
+.circle2{
+
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+background-color: white;
+font-size: 40px;
+text-align: center;
+}
